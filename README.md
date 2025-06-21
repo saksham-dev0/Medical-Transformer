@@ -33,7 +33,7 @@ respectively. The proposed Medical Transformer (MedT) uses LoGo training strateg
 
 - Clone this repository:
 ```bash
-git clone https://github.com/saksham-dev0/  
+git clone https://github.com/saksham-dev0/Medical-Transformer  
 cd Medical-Transformer
 ```
 
