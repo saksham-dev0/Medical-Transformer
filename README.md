@@ -2,7 +2,7 @@
 
 ## News:
 
-:rocket: : Checkout our latest work [UNeXt](https://arxiv.org/abs/2203.04967), a faster and more efficient segmentation architecture which is also easy to train and implement! Code is available [here](https://github.com/saksham-dev0/UNeXt-pytorch).
+:rocket: : A faster and more efficient segmentation architecture which is also easy to train and implement! Code is available [here](https://github.com/saksham-dev0/UNeXt-pytorch).
 
 ### About this repo:
 
