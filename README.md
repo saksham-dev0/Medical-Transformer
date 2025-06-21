@@ -1,13 +1,5 @@
 # Medical-Transformer
 
- <a href="https://arxiv.org/abs/2102.10662"> </a> 
-
-Pytorch code for the paper 
-["Medical Transformer: Gated Axial-Attention for
-Medical Image Segmentation"](https://arxiv.org/pdf/2102.10662.pdf), MICCAI 2021
-
-[Paper](https://arxiv.org/pdf/2102.10662.pdf) | [Poster](https://drive.google.com/file/d/1gMjc5guT_dYQFT6TEEwdHAFKwG5XkEc9/view?usp=sharing)
-
 ## News:
 
 :rocket: : Checkout our latest work [UNeXt](https://arxiv.org/abs/2203.04967), a faster and more efficient segmentation architecture which is also easy to train and implement! Code is available [here](https://github.com/saksham-dev0/UNeXt-pytorch).
@@ -135,17 +127,12 @@ The dataloader code is inspired from <a href="https://github.com/cosmic-cortex/p
 # Citation:
 
 ```bash
-@InProceedings{jose2021medical,
 author="Dr. R.C Karpagalakshmi, Saksham Sharma",
 title="Medical Transformer: Gated Axial-Attention for Medical Image Segmentation",
-booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021",
+Conference="Procedia Computer Science -- 2024",
 year="2021",
-publisher="Springer International Publishing",
-address="Cham",
-pages="36--46",
+publisher="IEEE",
 isbn="978-3-030-87193-2"
-}
-
 ```
 
 Open an issue or mail me directly in case of any queries or suggestions. 
